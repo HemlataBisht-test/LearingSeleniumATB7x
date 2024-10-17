@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b3c1cd-4599-48d8-801b-de1d83b56333" name="Changes" comment="">
+    <list default="true" id="65b3c1cd-4599-48d8-801b-de1d83b56333" name="Changes" comment="New code added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +50,13 @@
     "Application.Selenium001.executor": "Debug",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Selenium003.executor": "Run",
+    "TestNG.Selenium003.test_001.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.Selenium003">
     <configuration name="Selenium001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.Selenium001" />
       <module name="LearingSeleniumATB7x" />
@@ -70,8 +70,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium003" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearingSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.ex_selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.Selenium003" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium003.test_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearingSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.ex_selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.Selenium003" />
+      <option name="METHOD_NAME" value="test_001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium003" />
+        <item itemvalue="TestNG.Selenium003.test_001" />
         <item itemvalue="Application.Selenium001" />
       </list>
     </recent_temporary>
@@ -85,6 +122,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728708046074</updated>
     </task>
+    <task id="LOCAL-00001" summary="New code added">
+      <option name="closed" value="true" />
+      <created>1728748575444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728748575444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New code added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New code added" />
   </component>
 </project>
