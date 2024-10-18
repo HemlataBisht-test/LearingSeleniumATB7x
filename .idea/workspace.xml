@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65b3c1cd-4599-48d8-801b-de1d83b56333" name="Changes" comment="New code added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/ex_selenium/Selenium006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/ex_selenium/Selenium006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/project/ex_selenium/project01/Selenium012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/ex_selenium/project01/Selenium012.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <recent name="C:\Users\Hemlata Bisht\IdeaProjects\LearingSeleniumATB7x\src\test\java\com\project\ex_selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium012">
+  <component name="RunManager" selected="TestNG.Selenium012.testPageTitleofKatalon">
     <configuration name="Selenium010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.Selenium010" />
       <module name="LearingSeleniumATB7x" />
@@ -156,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Selenium012" />
         <item itemvalue="TestNG.Selenium012.testPageTitleofKatalon" />
+        <item itemvalue="TestNG.Selenium012" />
         <item itemvalue="TestNG.Selenium011.testVWOPageTitle" />
         <item itemvalue="TestNG.Selenium011" />
         <item itemvalue="Application.Selenium010" />
@@ -189,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729183793061</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New code added">
+      <option name="closed" value="true" />
+      <created>1729270666048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729270666048</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New code added">
+      <option name="closed" value="true" />
+      <created>1729270885700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729270885700</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -17,8 +17,14 @@ public class Selenium012 {
         Assert.assertEquals(driver.getCurrentUrl(),"https://katalon-demo-cura.herokuapp.com/");
         System.out.println(driver.getTitle());
         Assert.assertEquals(driver.getTitle(),"CURA Healthcare Service");
-        System.out.println(driver.getPageSource());
-      //  Assert.assertEquals(driver.getPageSource(),"CURA Healthcare Service");
+       // System.out.println(driver.getPageSource());
+        if (driver.getPageSource().contains("CURA Healthcare Service")){
+            System.out.println("CURA Healthcare Service");
+        }
+        else {
+            System.out.println("CURA Healthcare Service is not present ");
+        }
+      //  Assert.assertEquals(driver.getPageSource().contains("CURA Healthcare Service"),"CURA Healthcare Service");
         driver.quit();
     }
 }
