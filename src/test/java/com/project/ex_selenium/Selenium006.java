@@ -16,7 +16,7 @@ public class Selenium006 {
         // full UI mode - default - UI browser
         // incognito mode - switch
         // start Max
-        // add extensions - browsers
+        // add extensions in browsers
         // 100 + others , https , http
         // localstorage, download ?
 
@@ -27,6 +27,7 @@ public class Selenium006 {
 
         EdgeDriver driver = new EdgeDriver(edgeOptions);
         driver.get("https://google.com");
+        driver.quit();
 
 
     }
