@@ -20,6 +20,7 @@ public class Selenium012 {
        // System.out.println(driver.getPageSource());
         if (driver.getPageSource().contains("CURA Healthcare Service")){
             System.out.println("CURA Healthcare Service");
+            Assert.assertTrue(true);
         }
         else {
             System.out.println("CURA Healthcare Service is not present ");
