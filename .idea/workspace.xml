@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b3c1cd-4599-48d8-801b-de1d83b56333" name="Changes" comment="New code added">
+    <list default="true" id="65b3c1cd-4599-48d8-801b-de1d83b56333" name="Changes" comment="19 oct">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/project/ex_19102024/Selenium014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/project/ex_19102024/Selenium014.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
     "Application.Selenium007.executor": "Run",
     "Application.Selenium008.executor": "Run",
     "Application.Selenium010.executor": "Run",
+    "Application.Selenium019.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.Selenium003.executor": "Run",
@@ -62,6 +64,8 @@
     "TestNG.Selenium012.testPageTitleofKatalon.executor": "Run",
     "TestNG.Selenium013.executor": "Run",
     "TestNG.Selenium013.testCreateRegistration.executor": "Run",
+    "TestNG.Selenium023.executor": "Run",
+    "TestNG.Selenium15.testEBay.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
@@ -71,56 +75,16 @@
       <recent name="C:\Users\Hemlata Bisht\IdeaProjects\LearingSeleniumATB7x\src\test\java\com\project\ex_selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium013.testCreateRegistration">
-    <configuration name="Selenium011.testVWOPageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Selenium023">
+    <configuration name="Selenium019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_19102024.Selenium019" />
       <module name="LearingSeleniumATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.ex_selenium.project01.*" />
+          <option name="PATTERN" value="com.project.ex_19102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.project.ex_selenium.project01" />
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.project01.Selenium011" />
-      <option name="METHOD_NAME" value="testVWOPageTitle" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium012" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearingSeleniumATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.ex_selenium.project01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.project.ex_selenium.project01" />
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.project01.Selenium012" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium012.testPageTitleofKatalon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearingSeleniumATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.ex_selenium.project01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.project.ex_selenium.project01" />
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.project01.Selenium012" />
-      <option name="METHOD_NAME" value="testPageTitleofKatalon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,13 +124,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium023" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearingSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.ex_19102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.ex_19102024" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_19102024.Selenium023" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium15.testEBay" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearingSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.ex_19102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.ex_20102024" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_20102024.Selenium15" />
+      <option name="METHOD_NAME" value="testEBay" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium023" />
+        <item itemvalue="Application.Selenium019" />
+        <item itemvalue="TestNG.Selenium15.testEBay" />
         <item itemvalue="TestNG.Selenium013.testCreateRegistration" />
         <item itemvalue="TestNG.Selenium013" />
-        <item itemvalue="TestNG.Selenium012.testPageTitleofKatalon" />
-        <item itemvalue="TestNG.Selenium012" />
-        <item itemvalue="TestNG.Selenium011.testVWOPageTitle" />
       </list>
     </recent_temporary>
   </component>
@@ -227,11 +226,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729320384686</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="19 oct">
+      <option name="closed" value="true" />
+      <created>1729320473819</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729320473819</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New code added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New code added" />
+    <MESSAGE value="19 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="19 oct" />
   </component>
 </project>
