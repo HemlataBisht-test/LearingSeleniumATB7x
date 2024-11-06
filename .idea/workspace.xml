@@ -67,6 +67,13 @@
     "TestNG.Selenium023.testVwoLoginNegative.executor": "Run",
     "TestNG.Selenium024.testVwoLoginNegative.executor": "Run",
     "TestNG.Selenium025.executor": "Run",
+    "TestNG.Selenium026_OrangeHRM (1).executor": "Run",
+    "TestNG.Selenium026_OrangeHRM (2).executor": "Run",
+    "TestNG.Selenium026_OrangeHRM.executor": "Run",
+    "TestNG.Selenium026_OrangeHRM.testOrangeHRM.executor": "Run",
+    "TestNG.Selenium026_OrangeHRM.validateThePIMPage.executor": "Run",
+    "TestNG.Selenium027.test_verify_expire_message.executor": "Run",
+    "TestNG.Selenium028.test_ebay_print_price.executor": "Run",
     "TestNG.Selenium15.testEBay.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -77,30 +84,17 @@
       <recent name="C:\Users\Hemlata Bisht\IdeaProjects\LearingSeleniumATB7x\src\test\java\com\project\ex_selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium025">
-    <configuration name="Selenium019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_19102024.Selenium019" />
+  <component name="RunManager" selected="TestNG.Selenium028.test_ebay_print_price">
+    <configuration name="Selenium026_OrangeHRM (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearingSeleniumATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.ex_19102024.*" />
+          <option name="PATTERN" value="com.project.ex_selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium023" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearingSeleniumATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.ex_19102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.project.ex_19102024" />
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_19102024.Selenium023" />
+      <option name="PACKAGE_NAME" value="com.project.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.Selenium026_OrangeHRM" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -108,53 +102,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium023.testVwoLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium026_OrangeHRM (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearingSeleniumATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.project.ex_19102024.*" />
+          <option name="PATTERN" value="com.project.ex_selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.project.ex_19102024" />
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_19102024.Selenium023" />
-      <option name="METHOD_NAME" value="testVwoLoginNegative" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium024.testVwoLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearingSeleniumATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.ex_19102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.project.ex_19102024" />
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_19102024.Selenium024" />
-      <option name="METHOD_NAME" value="testVwoLoginNegative" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium025" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearingSeleniumATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.project.ex_19102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.project.ex_19102024" />
-      <option name="MAIN_CLASS_NAME" value="com.project.ex_19102024.Selenium025" />
+      <option name="PACKAGE_NAME" value="com.project.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.Selenium026_OrangeHRM" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium026_OrangeHRM.testOrangeHRM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearingSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.ex_selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.ex_selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_selenium.Selenium026_OrangeHRM" />
+      <option name="METHOD_NAME" value="testOrangeHRM" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium027.test_verify_expire_message" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearingSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.ex_20102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.ex_20102024" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_20102024.Selenium027" />
+      <option name="METHOD_NAME" value="test_verify_expire_message" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium028.test_ebay_print_price" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearingSeleniumATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.ex_20102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.ex_20102024" />
+      <option name="MAIN_CLASS_NAME" value="com.project.ex_20102024.Selenium028" />
+      <option name="METHOD_NAME" value="test_ebay_print_price" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -163,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Selenium025" />
-        <item itemvalue="TestNG.Selenium024.testVwoLoginNegative" />
-        <item itemvalue="TestNG.Selenium023.testVwoLoginNegative" />
-        <item itemvalue="TestNG.Selenium023" />
-        <item itemvalue="Application.Selenium019" />
+        <item itemvalue="TestNG.Selenium028.test_ebay_print_price" />
+        <item itemvalue="TestNG.Selenium027.test_verify_expire_message" />
+        <item itemvalue="TestNG.Selenium026_OrangeHRM.testOrangeHRM" />
+        <item itemvalue="TestNG.Selenium026_OrangeHRM (2)" />
+        <item itemvalue="TestNG.Selenium026_OrangeHRM (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729699698509</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="19 oct">
+      <option name="closed" value="true" />
+      <created>1729785977673</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729785977673</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
