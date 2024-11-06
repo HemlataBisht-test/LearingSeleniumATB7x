@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b3c1cd-4599-48d8-801b-de1d83b56333" name="Changes" comment="19 oct">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65b3c1cd-4599-48d8-801b-de1d83b56333" name="Changes" comment="20 oct" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,12 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729785977673</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20 oct">
+      <option name="closed" value="true" />
+      <created>1730903919766</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903919766</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New code added" />
     <MESSAGE value="19 oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="19 oct" />
+    <MESSAGE value="20 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 oct" />
   </component>
 </project>
